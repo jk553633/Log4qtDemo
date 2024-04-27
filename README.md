@@ -1,1 +1,1 @@
-"# Log4qtDemo" 
+# Log4qtDemo
